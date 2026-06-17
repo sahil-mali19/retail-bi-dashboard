@@ -63,7 +63,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/sahilmali/retail-bi-dashboard.git
+git clone https://github.com/sahil-mali19/retail-bi-dashboard.git
 cd retail-bi-dashboard
 pip install -r requirements.txt
 python notebooks/retail_analytics.py
